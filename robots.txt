@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ehifiicha.opensciencelab.ru/sitemap.xml
